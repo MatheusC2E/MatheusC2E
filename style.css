@@ -22,6 +22,8 @@
     background-image: linear-gradient(#424E61,white);
     height: 500px;
     padding: 100px;
+    color: white;
+    display: flex;
 }
 
 .primeiro-paragrafo{
@@ -29,4 +31,8 @@
 }
 .segundo-paragrafo{
     padding: 15px;
+}
+
+.foto-estudante{
+    width: 25%;
 }
