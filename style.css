@@ -38,3 +38,13 @@
 .foto-estudante{
     width: 35%;
 }
+
+.titulo-estudante{
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+}
+
+.textos{
+    width: 35%;
+}
